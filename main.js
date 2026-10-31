@@ -1,6 +1,10 @@
-console.log("テスト123");
-console.log(1 + 2);
-console.log(3 - 2);
-console.log(1 * 2);
-console.log(10 / 2);
-console.log(3 % 2);
+// console.log("テスト123");
+// console.log(1 + 2);
+// console.log(3 - 2);
+// console.log(1 * 2);
+// console.log(10 / 2);
+// console.log(3 % 2);
+let num = 10;
+console.log(num);
+const num2 = 20;
+console.log(num2);
